@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\gitprojects\SORSE\webapp\src\svs\web\merchantmanager\struts2\actions\ManageMerchantTicketProductStep1.java'" />
-    <option name="defaultScopeName" value="File 'D:\gitprojects\SORSE\webapp\src\svs\web\merchantmanager\struts2\actions\ManageMerchantTicketProductStep1.java'" />
-    <option name="SEARCH_SCOPE" value="File 'D:\gitprojects\SORSE\webapp\src\svs\web\merchantmanager\struts2\actions\ManageMerchantTicketProductStep1.java'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
