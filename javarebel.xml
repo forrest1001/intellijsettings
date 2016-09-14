@@ -1,0 +1,5 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="settingsStartupRadioSelection" value="1" />
+  </component>
+</application>
