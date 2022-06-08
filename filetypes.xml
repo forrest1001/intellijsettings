@@ -3,10 +3,10 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping ext="jasper" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".analysis_options" type="YAML" />
+      <removed_mapping pattern="pubspec.lock" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
-      <removed_mapping pattern="pubspec.lock" approved="true" type="YAML" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
